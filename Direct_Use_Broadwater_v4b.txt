@@ -14,6 +14,7 @@ is assumed.
 *** Subsurface technical parameters ***
 ****************************************
 Reservoir Model, 4,			--- Use Generic user-provided temperature profile
+Drawdown Parameter, 0.005,		--- Linear Thermal drawdown of 0.5%/year
 Reservoir Depth, .5, 			--- [km]
 Number of Segments, 4,			--- [-] Should be 1, 2, 3, or 4.
 Gradient 1, 134,
