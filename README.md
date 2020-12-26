@@ -13,3 +13,6 @@ Beckers, K. F., & McCabe, K. (2019). GEOPHIRES v2.0: Updated geothermal techno-e
 
 If you are here to find GEOPHIRES software, this is the wrong place. See this repository to download the code:
 https://github.com/NREL/GEOPHIRES-v2 
+
+12/26/2020
+Added GeoRePORT spreadsheet for review and modification
